@@ -5,3 +5,4 @@
 
 ### List of Cheat Sheets:
 - [Best practices for securing API Keys inside Android Projects.](https://medium.com/@programmerofpersia/4-strategies-to-secure-your-api-keys-in-android-applications-cheat-sheet-series-c650ba1d9fe4)
+- [Best Practices for Handling Process Death in Android Applications.](https://programmerofpersia.medium.com/best-practices-for-handling-process-death-in-android-applications-cheat-sheet-series-42004afda242)
